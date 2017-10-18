@@ -3,5 +3,5 @@ body {
 	color: #444 !important; 
 	font-family: 'Lato', sans-serif !important; 
 	font-size: 18px !important;
-	font-weight: 300 !important;
 }
+h1,h2,h3,h4,h5,h6 {text-align: center; margin: 1em !important;}
