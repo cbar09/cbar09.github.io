@@ -1,4 +1,6 @@
+html {overflow-y: scroll;}
 div.card, li.list-group-item {border: none;}
+#header .card-text {line-height: 2em;}
 #logo img.card-img-top {width: 50%;}
 body {
 	color: #444 !important; 
